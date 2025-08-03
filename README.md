@@ -15,14 +15,6 @@
 
 ---
 
-### 📌 پروژه‌های برگزیده
-
-- 🔧 [Dashboard-Admin-Project](https://github.com/Hazhar24/Dashboard-Admin-Project) — داشبورد مدیریت با React و Tailwind
-- 🔤 [words-random](https://github.com/Hazhar24/words-random) — پروژه‌ای برای تمرین واژه‌سازی تصادفی با React
-- 📦 [TelegramProductManager](https://github.com/Hazhar24/TelegramProductManager) — رابط فروشنده در تلگرام مینی‌اپ
-
----
-
 ### 📈 آمار گیت‌هاب
 
 <p align="center">
