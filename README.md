@@ -38,5 +38,3 @@
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/hazhar24)
 
 ---
-
-> 📝 "In spite of everything, in progress..." — جمله‌ات خیلی قشنگه، حتما در بالای پروفایل هم نگهش دار.
