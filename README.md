@@ -30,9 +30,18 @@
 ### 📊 آمار گیت‌هاب من
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hazhar24&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hazhar24&layout=compact&theme=radical" alt="Top Langs" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Hazhar24&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hazhar24&layout=compact&theme=radical" alt="Top Langs" width="400"/>
+      </td>
+    </tr>
+  </table>
 </p>
+
 
 ---
 
